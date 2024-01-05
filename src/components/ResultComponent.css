@@ -1,0 +1,43 @@
+.result-heading{
+  color: green;
+  font-size: 30px;
+  margin: 30px;
+}
+.result-content{
+  background-color: white;
+  width: 50%;
+  border-left:  7px solid #8989f5;
+}
+.practice{
+  margin: 20px;
+  font-size: 20px;
+}
+.yourScore{
+  color: blue;
+  font-size: 30px;
+  font-weight: 600;
+}
+.flex{
+  display: flex;
+  justify-content: space-around;
+  margin: 10px;
+}
+.details{
+  text-align: left;
+}
+h5{
+  font-size: 18px;
+  margin: 25px 15px;
+}
+.play{
+  color: #8989f5;
+  border-color: #8989f5 ;
+  font-size: 15px;
+  margin: 5px 15px;
+}
+.home{
+  color: green;
+  border-color: green;
+  font-size: 15px;
+  margin: 5px 15px;
+}

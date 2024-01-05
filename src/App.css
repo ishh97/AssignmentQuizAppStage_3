@@ -1,0 +1,25 @@
+*{
+  margin: 0;
+}
+.main{
+  text-align: center;
+  height: 100vh;
+  background-color: rgb(72, 59, 144);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;  
+  border: 1px solid #ffffff;
+}
+.result{
+  height: 100vh;
+  background-color: rgb(72, 59, 144);
+  border: 1px solid #ffffff;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+button{
+  cursor: pointer;
+}
